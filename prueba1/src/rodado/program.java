@@ -12,7 +12,7 @@ public class program {
 //		//moto =new diesel(moto);
 //		moto = new gasoil(moto);
 //		
-		Vehiculos auto= new automovil("mercedes");
+		Vehiculos auto= new automovil("topo");
 		auto = new gasoil(auto);
 mostrar(auto);
 
